@@ -16,7 +16,7 @@ The Old Faithful data set contains the waiting time between eruptions and the du
 ```{r, load dataframe} 
 df <- faithful 
 ```
-
+lahdadasd
 
 The data description is fiven in the table below. 
 
